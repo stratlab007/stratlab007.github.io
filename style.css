@@ -1,0 +1,43 @@
+/*
+selector {
+eigenschaft: wert;
+property: value:
+} */
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  color: #ff0000;
+  background-color: #000000d4;
+  width: 554px;
+  padding: 20px;
+  border: pink solid 3px;
+}
+
+p {
+  color: #1f07f7; /* Textfarbe */
+  background-color: #ffff00; /* GELB */
+  border: 5px solid orange; /* ORANGER RAHMEN */
+  width: 550px;
+  padding: 20px;
+}
+
+a {
+  color: #000000;
+}
+
+#feld3 {
+  background-color: #ffffff;
+  color: #000000;
+}
+
+.rot {
+  color: #ff0000;
+  background: #ae117a;
+}
